@@ -1,0 +1,9 @@
+.comment {
+    width: 25rem;
+    border: 1px solid rgb(137, 77, 87);
+    border-radius: 14px;
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30%;
+}
